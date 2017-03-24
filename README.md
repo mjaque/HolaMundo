@@ -2,6 +2,7 @@
 Repo de pruebas
 
 Pasos para importarlo en Eclipse:
+Requiere EGIT.
 1.- Ir al menú File->Import->Git->Projects from Git
 2.- Elegir "Clone URI"
 3.- Completar con la URI del repositorio: https://github.com/mjaque/HolaMundo
