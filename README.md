@@ -15,4 +15,4 @@ Pasos para importar un repositorio de GitHub en Eclipse (con EGIT):
 1. ¡Especificar la localizacin IGUAL que en el paso 5!
 1. Finish.
 
-Para actualizar una copia en local con la versión del repositorio, hacemos: **git fetch**
+Para actualizar una copia en local con la versión del repositorio, hacemos: **git pull**
