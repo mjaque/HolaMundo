@@ -1,8 +1,7 @@
 # HolaMundo
 Repo de pruebas
 
-Pasos para importarlo en Eclipse:
-Requiere EGIT.
+Pasos para importar un repositorio de GitHub en Eclipse (con EGIT):
 1. Ir al menú File->Import->Git->Projects from Git
 1. Elegir "Clone URI"
 1. Completar con la URI del repositorio: https://github.com/mjaque/HolaMundo
